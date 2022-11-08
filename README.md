@@ -21,3 +21,5 @@ On your IDE terminal, RUN:
 pyuic5 MainWindow.ui -o MainWindow.py
 
 This will do the work.
+
+Note: Try working with database tables and editing the entries on List or Table view in QT designer (Suggestion)
